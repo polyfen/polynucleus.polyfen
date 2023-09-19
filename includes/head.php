@@ -14,27 +14,28 @@
 <meta name="theme-color" content="#7537f8">
 
 <!-- CSS General -->
-<!-- <link href="app/css/opalescent.css" rel="stylesheet" type="text/css">
+<!--
+<link href="app/css/opalescent.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" href="app/css/styles.css" type="text/css">
  -->
 
 <!-- FONTS -->
-<!--
-/**
-* @license
-* MyFonts Webfont Build ID 568563
-*
-* The fonts listed in this notice are subject to the End User License
-* Agreement(s) entered into by the website owner. All other parties are
-* explicitly restricted from using the Licensed Webfonts(s).
-*
-* You may obtain a valid license from one of MyFonts official sites.
-* http://www.fonts.com
-* http://www.myfonts.com
-* http://www.linotype.com
-*
-*/
--->
+    <!--
+    /**
+    * @license
+    * MyFonts Webfont Build ID 568563
+    *
+    * The fonts listed in this notice are subject to the End User License
+    * Agreement(s) entered into by the website owner. All other parties are
+    * explicitly restricted from using the Licensed Webfonts(s).
+    *
+    * You may obtain a valid license from one of MyFonts official sites.
+    * http://www.fonts.com
+    * http://www.myfonts.com
+    * http://www.linotype.com
+    *
+    */
+    -->
 <link rel="stylesheet" type="text/css" href="libs/fonts/Biotif.css">
 <link rel="stylesheet" href="https://use.typekit.net/aba8ecz.css">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
