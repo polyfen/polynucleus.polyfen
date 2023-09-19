@@ -2,7 +2,7 @@
 <html lang="en">
 
   <head>
-    <title>Polyfen | Creative &amp; Development Agency</title>
+    <title>Polyfen | Creative & Development Agency</title>
 
 
     <!-- INCLUDE HEAD.PHP start -->
@@ -91,13 +91,13 @@
             <div id="bike-in-mex-cover" class="project-cover" onmouseover="document.getElementById('bike-in-mex-button').className='button-hover';document.getElementById('bike-in-mex-cover').className='project-cover project-cover-hover';" onmouseout="document.getElementById('bike-in-mex-button').className='';document.getElementById('bike-in-mex-cover').className='project-cover';">
               <a href="/bike-in-mex.php">
                 <figure>
-                  <img src="imgs/case-studies/bike-in-mex/bike-in-mex-thumbnail.webp" loading="lazy" alt="Bike in Mex flag">
+                   src="imgs/bike-in-mex-thumbnail.webp" loading="lazy" alt="Bike in Mex flag">
                 </figure>
               </a>
               <div class="project-preview">
                 <a href="/bike-in-mex.php">
                   <figure>
-                    <img src="imgs/case-studies/bike-in-mex/bike-in-mex-preview.gif" loading="lazy" alt="Bike in Mex preview">
+                    <img src="imgs/bike-in-mex-preview.gif" loading="lazy" alt="">
                   </figure>
                 </a>
               </div>
@@ -117,13 +117,13 @@
             <div id="tradeana-cover" class="project-cover" onmouseover="document.getElementById('tradeana-button').className='button-hover';document.getElementById('tradeana-cover').className='project-cover project-cover-hover';" onmouseout="document.getElementById('tradeana-button').className='';document.getElementById('tradeana-cover').className='project-cover';">
               <a href="/tradeana.php">
                 <figure>
-                  <img src="imgs/case-studies/tradeana/tradeana-thumbnail.webp" loading="lazy" alt="Tradeana">
+                  <img src="imgs/tradeana-thumbnail.webp" loading="lazy" alt="">
                 </figure>
               </a>
               <div class="project-preview">
                 <a href="/tradeana.php">
                   <figure>
-                    <img src="imgs/case-studies/tradeana/tradeana-preview.gif" loading="lazy" alt="Tradeana preview">
+                    <img src="imgs/tradeana-preview.gif" loading="lazy" alt="">
                   </figure>
                 </a>
               </div>
@@ -143,13 +143,13 @@
             <div id="villa-terezija-cover" class="project-cover" onmouseover="document.getElementById('villa-terezija-button').className='button-hover';document.getElementById('villa-terezija-cover').className='project-cover project-cover-hover';" onmouseout="document.getElementById('villa-terezija-button').className='';document.getElementById('villa-terezija-cover').className='project-cover';">
               <a href="/villa-terezija.php">
                 <figure>
-                  <img src="imgs/case-studies/villa-terezija/villa-terezija-thumbnail.webp" loading="lazy" alt="Villa Terezija">
+                  <img src="imgs/villa-terezija-thumbnail.webp" loading="lazy" alt="">
                 </figure>
               </a>
               <div class="project-preview">
                 <a href="/villa-terezija.php">
                   <figure>
-                   <img src="imgs/case-studies/villa-terezija/villa-terezija-preview.gif" loading="lazy" alt="Villa Terezija preview">
+                   <img src="imgs/villa-terezija-preview.gif" loading="lazy" alt="">
                   </figure>
                 </a>
               </div>

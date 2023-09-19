@@ -8,18 +8,18 @@
 
 <!--       <section class="times">
         <div data-timezone="US/Pacific">
-          <img src="imgs/flags/us.svg" class="country-flag">
+          <img alt="U.S." src="imgs/flags/us.svg" class="country-flag">
           <small class="caption">San Francisco</small>
           <output class="caption">00:00</output>
         </div>
 
         <div data-timezone="America/Argentina/Buenos_Aires">
-          <img src="imgs/flags/ar.svg" class="country-flag">
+          <img alt="Argentina" src="imgs/flags/ar.svg" class="country-flag">
           <small class="caption">Mar del Plata</small>
           <output class="caption">00:00</output>
         </div>
         <div data-timezone="Europe/Belgrade">
-        <img src="imgs/flags/hr.svg" class="country-flag">
+        <img alt="Croatia" src="imgs/flags/hr.svg" class="country-flag">
           <small class="caption">Zagreb</small>
           <output class="caption">00:00</output>
         </div>
@@ -27,8 +27,8 @@
  -->
       <div id="tpg">
         <a href="https://thepolyfengroup.com?utm_source=polyfen&utm_medium=referral" target="_blank">
-          <img src="imgs/the-polyfen-group-low.svg" id="tpg-logo-low" class="tpg-logo" onmouseover="document.getElementById('tpg-logo-low').className='d-none';document.getElementById('tpg-logo').className='tpg-logo';">
-          <img src="imgs/the-polyfen-group.svg" id="tpg-logo" class="d-none" onmouseout="document.getElementById('tpg-logo').className='d-none';document.getElementById('tpg-logo-low').className='tpg-logo';">
+          <img alt="" src="imgs/the-polyfen-group-low.svg" id="tpg-logo-low" class="tpg-logo" onmouseover="document.getElementById('tpg-logo-low').className='d-none';document.getElementById('tpg-logo').className='tpg-logo';">
+          <img alt="" src="imgs/the-polyfen-group.svg" id="tpg-logo" class="d-none" onmouseout="document.getElementById('tpg-logo').className='d-none';document.getElementById('tpg-logo-low').className='tpg-logo';">
         </a>
       </div>
       

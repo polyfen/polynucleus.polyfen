@@ -1,5 +1,5 @@
 <header>
-  <a href="/"><img src="imgs/polyfen-logo.svg" id="logo" alt="Polyfen"></a>
+  <a href="/"><img src="imgs/polyfen-logo.svg" id="logo" alt="Home page"></a>
   <nav class="desktop nav">        
     <a href="/" class="uppercase">Home</a>
     <a href="services.php" class="uppercase">Services</a>
