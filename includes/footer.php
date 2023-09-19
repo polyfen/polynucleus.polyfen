@@ -6,7 +6,7 @@
         <li><a href="http://polyfen.com/github" target="_blank" title="Github" id="linkedin-icon"><i class="fab fa-github"></i></a></li>
       </ul>
 
-      <section class="times">
+<!--       <section class="times">
         <div data-timezone="US/Pacific">
           <img src="imgs/flags/us.svg" class="country-flag">
           <small class="caption">San Francisco</small>
@@ -24,7 +24,7 @@
           <output class="caption">00:00</output>
         </div>
       </section>
-
+ -->
       <div id="tpg">
         <a href="https://thepolyfengroup.com?utm_source=polyfen&utm_medium=referral" target="_blank">
           <img src="imgs/the-polyfen-group-low.svg" id="tpg-logo-low" class="tpg-logo" onmouseover="document.getElementById('tpg-logo-low').className='d-none';document.getElementById('tpg-logo').className='tpg-logo';">
@@ -33,13 +33,13 @@
       </div>
       
       <div class="footer_2line">
-        <a href="http://wiki.polyfen.com" target="_blank"><small>Team Wiki</small></a>
+        <a href="http://wiki.polyfen.com" target="_blank">Team Wiki</a>
         <span style="opacity:0.2;margin:0 5px;">&vert;</span>
-        <a href="http://business.polyfen.com" target="_blank"><small>Business Plan</small></a>
+        <a href="http://business.polyfen.com" target="_blank">Business Plan</a>
         <span style="opacity:0.2;margin:0 5px;">&vert;</span>
-        <a href="http://brand.polyfen.com" target="_blank"><small>Brand Guidelines</small></a>
+        <a href="http://brand.polyfen.com" target="_blank">Brand Guidelines</a>
         <span style="opacity:0.2;margin:0 5px;">&vert;</span>
-        <a href="privacy.php" target="_blank"><small>Privacy Policy</small></a>
+        <a href="privacy.php" target="_blank">Privacy Policy</a>
       </div>
 
     <!-- scripts location call luxon-->
