@@ -35,7 +35,7 @@
 
   </head>
 
-  <body id="home" class="dark-mode">
+  <body>
 
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P25JFWC"
@@ -54,37 +54,37 @@
       <!-- INCLUDE HEADER.PHP end -->
 
       <!-- COVER start -->
-      <section class="align-center" id="cover">
-        <div class="hiddenHeader">
-          <h1 class="title-1">Unleash your business<br/>full potential</h1>
+      <section>
+        <div>
+          <h1>Unleash your business<br/>full potential</h1>
 
-          <div class="container-1080">
+          <div>
             <p>We are a creative agency offering design, marketing, and software development services for emerging businesses.</p>
-            <small class="caption">Don't be shy</small>
-            <div style="clear:both;"></div>
+            <small>Don't be shy</small>
+          
 
-            <a class="cta-button" href="/contact.php">
-              <div class="opal opal-rainbow-soft" style="border: 2px solid #7537f8;"><div class="opal-solid"><div class="opal-mask" style="background:none;rgba(255, 255, 255, .85);    font-family: 'BiotifBold', sans-serif !important;">Let's Talk!</div></div></div>
+            <a href="/contact.php">
+              <button>Let's Talk!</button>
             </a>
           </div>
-          <div class="background">
+          <!-- <div class="background">
             <div id="pearl-11" class="pearl rotate-slower">
             </div>
             <div id="pearl-12" class="pearl rotate">
             </div>
             <div id="pearl-13" class="pearl rotate">
             </div>
-          </div>
+          </div> -->
         </div>
       </section>
       <!-- COVER end -->
 
-      <div class="container-1080">
+      <div>
 
         <!-- FEATURED PROJECTS start -->
-        <section id="work">
-          <h2 class="caption">Work</h2>
-          <h3 class="heading-1">Featured projects</h3>
+        <section>
+          <h2Work</h2>
+          <h3>Featured projects</h3>
 
           <!-- BIKE IN MEX start -->
           <div class="hidden featured-project">
@@ -103,7 +103,7 @@
               </div>
             </div>
             <div class="project-description">
-              <h4 class="heading-2">Bike in Mex</h4>
+              <h4>Bike in Mex</h4>
               <p>We designed an identity focused on geometric illustrations inspired by ancient Aztec and Mayan symbols set on the vibrant colors of Mexico's flag for a bicycle rental shop based in Tulum, Mexico.</p>
               <a href="/bike-in-mex.php" onmouseover="document.getElementById('bike-in-mex-cover').className='project-cover project-cover-hover';" onmouseout="document.getElementById('bike-in-mex-cover').className='project-cover';">
                 <button id="bike-in-mex-button">View project</button>
@@ -129,7 +129,7 @@
               </div>
             </div>
             <div class="project-description">
-              <h4 class="heading-2">Tradeana</h4>
+              <h4>Tradeana</h4>
               <p>Tradeana's patented software, Forex Risk Engine™, is designed by traders for traders to help them efficiently audit and manage the risk of their ForEx operations.</p>
               <a href="/tradeana.php" onmouseover="document.getElementById('tradeana-cover').className='project-cover project-cover-hover';" onmouseout="document.getElementById('tradeana-cover').className='project-cover';">
                 <button id="tradeana-button">View project</button>
@@ -155,7 +155,7 @@
               </div>
             </div>
             <div class="project-description">
-              <h4 class="heading-2">Villa Terezija</h4>
+              <h4>Villa Terezija</h4>
               <p>A touristic accommodation surrounded by a stunning rose garden in the quiet town of Baška on Krk Island, Croatia. Minutes walk from a sandy beach on the clear blue Adriatic Sea.</p>
               <a href="/villa-terezija.php" onmouseover="document.getElementById('villa-terezija-cover').className='project-cover project-cover-hover';" onmouseout="document.getElementById('villa-terezija-cover').className='project-cover';">
                 <button id="villa-terezija-button">View project</button>
@@ -166,14 +166,7 @@
 
         </section>
         <!-- FEATURED PROJECTS end -->
-
-
-        <div style="clear:both;">
         </div>
-        <div class="row">
-          <div class="horizontal-separator"></div>
-        </div>
-
       </div>
 
     </div>
