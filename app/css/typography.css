@@ -1,25 +1,10 @@
 * {
     font-family: BiotifMedium;
-  }
-  
-  .BiotifMedium {
-    font-family: BiotifMedium;
-  }
-  
-  .BiotifBold {
-    font-family: BiotifBold;
-  }
-  
-  .BiotifExtraBold {
-    font-family: BiotifExtraBold;
-  }
-  
-  p,
-  p a,
-  li,
-  p strong,
-  p span,
-  li strong {
+}
+
+p,
+p a,
+li,
+p span {
     font-family: 'freight-text-pro', serif;
-  }
-  
+}
