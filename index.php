@@ -56,7 +56,7 @@
       <!-- COVER start -->
       <section>
         <div>
-          <h1>Unleash your business<br/>full potential</h1>
+          <h1>Unleash your business<br>full potential</h1>
 
           <div>
             <p>We are a creative agency offering design, marketing, and software development services for emerging businesses.</p>
@@ -151,7 +151,7 @@
             <div class="project-description">
               <h4>Villa Terezija</h4>
               <p>A touristic accommodation surrounded by a stunning rose garden in the quiet town of Baška on Krk Island, Croatia. Minutes walk from a sandy beach on the clear blue Adriatic Sea.</p>
-              <a href="/villa-terezija.php" onmouseover="document.getElementById('villa-terezija-cover').className='project-cover project-cover-hover';" onmouseout="document.getElementById('villa-terezija-cover').className='project-cover';">
+              <a href="/villa-terezija.php" onmouseover="document.getElementById('villa-terezija-cover').className='project-cover project-cover-hover';" onmouseout="document.getElementById('villa-terezija-cover').className='project-cover';"
                 id="villa-terezija-button">View project</a>
             </div>
           </div>
