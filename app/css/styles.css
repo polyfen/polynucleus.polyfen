@@ -1,0 +1,79 @@
+/*General///////////////////////////////////////////////////////////////////*/
+
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #070924;
+    color: #F9F9F9;
+}
+
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.align-center {
+    text-align: center;
+}
+
+
+
+/*Hello-Bar///////////////////////////////////////////////////////////////////*/
+.hello-bar {
+    background-color: black;
+    position: relative;
+    text-align: center;
+    width: 100%;
+    z-index: 10;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    padding: 20px 10px;
+}
+
+div.hello-bar small {
+    line-height: 1.4;
+}
+
+/* end Hello-Bar */
+/* Header///////////////////////////////////////////////////////////////////*/
+
+header {
+
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 10;
+    padding: 20px;
+    border-top: 12px solid #7537f8;
+}
+
+.logo {
+    height: 50px;
+    width: auto;
+}
+
+.hamburger svg {
+    fill: white;
+}
+
+
+/* end Header */
+
+/* Home///////////////////////////////////////////////////////////////////*/
+/* Cover */
+.cover p{
+    opacity: .7;
+    margin: 35px auto;
+    max-width: 450px;
+}
+/* end Home */
